@@ -27,6 +27,12 @@ from the CIFAR-10 dataset into 10 different categories.
 
 
 ---
+\## Improvements
+\- Applied data augmentation
+
+\- Used Batch Normalization & Dropout
+
+\- Improved generalization and accuracy
 
 
 

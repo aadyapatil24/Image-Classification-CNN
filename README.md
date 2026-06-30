@@ -1,120 +1,59 @@
-\# Image Classification using CNN 🧠📸
+# 🖼️ Image Classification using CNN
 
-
-
-This project implements a \*\*Convolutional Neural Network (CNN)\*\* to classify images
-
-from the CIFAR-10 dataset into 10 different categories.
-
-
+A Deep Learning project built using TensorFlow and Keras to classify images using Convolutional Neural Networks (CNN).
 
 ---
 
+## 📌 Project Overview
 
-
-\## 🔍 Project Overview
-
-
-
-\- Deep Learning project using CNN
-
-\- Uses CIFAR-10 dataset
-
-\- Image normalization and feature extraction using convolution layers
-
-\- Achieves good classification accuracy on test data
-
-
-
----
-\## Improvements
-\- Applied data augmentation
-
-\- Used Batch Normalization & Dropout
-
-\- Improved generalization and accuracy
-
-
-
-\## 🛠 Technologies Used
-
-
-
-\- Python
-
-\- TensorFlow
-
-\- Keras
-
-\- CNN (Convolutional Neural Network)
-
-
+This project demonstrates image classification using CNNs. The model is trained on image datasets such as CIFAR-10 and can be extended to Cats vs Dogs using Transfer Learning.
 
 ---
 
+## ✨ Features
 
-
-\## 📂 Dataset
-
-
-
-\- CIFAR-10 (built-in Keras dataset)
-
-\- 10 image classes
-
-
+- Image Classification using CNN
+- TensorFlow & Keras
+- Training and Validation Accuracy Graphs
+- Model Saving (.h5)
+- Prediction on New Images (Coming Soon)
+- Streamlit Web App (Coming Soon)
 
 ---
 
+## 🛠️ Technologies Used
 
-
-\## ▶️ How to Run
-
-
-
-1\. Open `image\_classification\_cnn.ipynb`
-
-2\. Run all cells
-
-3\. Model trains and evaluates automatically
-
-
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
 
 ---
 
+## 📂 Dataset
 
-
-\## 📈 Model Performance
-
-
-
-\- Achieved approximately \*\*65–75% accuracy\*\*
-
-\- Evaluated on unseen test images
-
-
+- CIFAR-10 Dataset
 
 ---
 
+## 📊 Results
 
+Model Accuracy: *(Update after training)*
 
-\## 🖼 Output Preview
-
-
-
-!\[Output Preview](preview.png)
-
-
+Example graphs and prediction screenshots will be added in the **images** folder.
 
 ---
 
+## 🚀 Future Improvements
 
+- Transfer Learning (MobileNetV2)
+- Cats vs Dogs Classification
+- Streamlit Deployment
+- Real-time Image Prediction
 
-\## 📌 Note
+---
 
+## 👩‍💻 Author
 
-
-This project is created for learning and portfolio demonstration purposes.
-
-
-
+**Aadya Patil**
